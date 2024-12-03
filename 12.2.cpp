@@ -8,7 +8,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     
-    char S[100], S1[20], S2[20];
+    char S[100], S1[30], S2[20];
 
     cout << "Введіть рядок S: ";
     cin.getline(S, 100); 
